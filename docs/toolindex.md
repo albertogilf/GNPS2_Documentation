@@ -62,3 +62,6 @@ These notebooks are for postprocessing of results from GNPS/GNPS2 and other comp
 | Cytoscape | [Citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC403769/) |
 | ProteoWizard | [Citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732273/) |
 | [SNAP-MS](https://www.npatlas.org/discover/snapms/) | [Citation](https://www.nature.com/articles/s41467-022-35734-z) and [Documentation](https://liningtonlab.github.io/snapms_documentation/) |
+| Chemwalker | [Citation](https://academic.oup.com/bioinformatics/article/39/3/btad078/7067745?login=true) |
+| MS2Query | [Citation](https://www.nature.com/articles/s41467-023-37446-4) |
+| msms-choser | --- | 
